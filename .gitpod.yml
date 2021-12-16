@@ -1,1 +1,1 @@
-image: node:buster
+image: trufflesuite/ganache-cli
