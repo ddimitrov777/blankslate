@@ -3,3 +3,5 @@ image:
 ports:
   - port: 3000-8999
     onOpen: notify
+tasks:
+  - name: 
